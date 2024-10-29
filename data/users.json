@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Aluno",
+        "email":"aluno@senai.com.br",
+        "password": "aluno"
+    },
+
+    {
+        "name": "Renan",
+        "email":"renan@senai.com.br",
+        "password": "aluno"
+    },
+
+    {
+        "name": "Julia",
+        "email":"julia@senai.com.br",
+        "password": "aluno"
+    },
+
+    {
+        "name": "Amanda",
+        "email":"amanda@senai.com.br",
+        "password": "aluno"
+    }
+]
